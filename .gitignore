@@ -1,0 +1,5 @@
+/build
+.hg
+.hgtags
+.hgignore
+.jcheck
